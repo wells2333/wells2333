@@ -1,16 +1,31 @@
-### Hi there 👋
+### 👤 Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
-<!--
-**wells2333/wells2333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img align="right" alt="GIF" src="./code.gif?raw=true" width="400" height="260" />
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Asap+Condensed&duration=4000&pause=1000&color=00B2DF&background=5712FF00&width=200&height=30&lines=welcome+to+my+GitHub)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔧 Languages and tools:
+
+<img height="50" src="https://skillicons.dev/icons?i=java,python,mysql,docker,vue,html,js,css&perline=7" />
+
+#### ✨ My Todoist Stats:
+
+- 🏆  Make progress every day
+
+- 🌸  Face each day with a smile
+
+- ⏳   Last every day
+
+- 👯  Mutual improvement
+
+
+
+  <h5 align="center">
+    📈 My GitHub Stats
+  </h5>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wells2333&show_icons=true&theme=gotham" alt="GuYiTan" />
+
+
+
+
