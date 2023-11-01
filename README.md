@@ -4,28 +4,15 @@
 
 #### 🔧 Languages and tools:
 
-![GuYiTan's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=wells2333&show_icons=true&count_private=true&theme=gotham)
-
 <img height="50" src="https://skillicons.dev/icons?i=java,python,mysql,docker,vue,html,js,css&perline=7" />
 
-#### ✨ My Todoist Stats:
+![GuYiTan's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=wells2333&show_icons=true&count_private=true&theme=gotham)
 
-- 🏆  Make progress every day
+<h5 align="left">
+  📈 My GitHub Stats
+</h5>
 
-- 🌸  Face each day with a smile
-
-- ⏳   Last every day
-
-- 👯  Mutual improvement
-
-
-
-  <h5 align="center">
-    📈 My GitHub Stats
-  </h5>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wells2333&show_icons=true&theme=gotham" alt="GuYiTan" />
-
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=wells2333&show_icons=true&theme=gotham" alt="GuYiTan" />
 
 
 
